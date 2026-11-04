@@ -1,0 +1,13 @@
+﻿,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+Student_ID,60.0,,,,30.5,17.46424919657298,1.0,15.75,30.5,45.25,60.0
+Student_Name,60,58,Amen,2,,,,,,,
+Semester,60.0,,,,5.483333333333333,1.692372386262938,3.0,3.0,6.0,7.0,7.0
+Faculty,60,1,BCS,60,,,,,,,
+Age,60.0,,,,23.983333333333334,3.326787357841463,20.0,21.0,23.5,26.0,35.0
+Daily_Screen_Time,60,3,1-2 hours,42,,,,,,,
+Social_Media_Time,60,4,1-2 hours,35,,,,,,,
+Gaming_Time,60,6,1-2 hours,39,,,,,,,
+Study_Time,60,4,1-2 hours,37,,,,,,,
+Sleep_Time,60,5,8-9 hours,55,,,,,,,
+Number_of_Apps,60,5,<20 apps,36,,,,,,,
+Academic_Score,60,4,61-80%,54,,,,,,,

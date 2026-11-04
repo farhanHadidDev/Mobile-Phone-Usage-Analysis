@@ -1,5 +1,9 @@
+
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
+
+student_data.csv
+outputs/cleaned_mobile_usage_data.csv
